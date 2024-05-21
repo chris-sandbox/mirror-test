@@ -4,5 +4,17 @@
     "col": 1,
     "height": 8,
     "width": 8
+  },
+  "table2": {
+    "row": 13,
+    "col": 1,
+    "height": 8,
+    "width": 8
+  },
+  "uuidModule1": {
+    "row": 23.8,
+    "col": 1,
+    "height": 2.4,
+    "width": 11
   }
 }
