@@ -45,7 +45,7 @@
       id="3aad4"
       alignment="left"
       format="tag"
-      formatOptions={{ automaticColors: true }}
+      formatOptions={{ map: { automaticColors: true } }}
       groupAggregationMode="none"
       key="role"
       label="Role"
@@ -81,7 +81,7 @@
       alignment="left"
       cellTooltipMode="overflow"
       format="tags"
-      formatOptions={{ automaticColors: true }}
+      formatOptions={{ map: { automaticColors: true } }}
       groupAggregationMode="none"
       key="teams"
       label="Teams"
@@ -196,6 +196,7 @@
       id="be73b"
       alignment="left"
       format="tag"
+      formatOptions={{ map: { automaticColors: true } }}
       formatOptions={{ automaticColors: true }}
       groupAggregationMode="none"
       key="role"
@@ -232,6 +233,7 @@
       alignment="left"
       cellTooltipMode="overflow"
       format="tags"
+      formatOptions={{ map: { automaticColors: true } }}
       formatOptions={{ automaticColors: true }}
       groupAggregationMode="none"
       key="teams"
