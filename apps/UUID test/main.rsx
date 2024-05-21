@@ -197,6 +197,7 @@
       alignment="left"
       format="tag"
       formatOptions={{ map: { automaticColors: true } }}
+      formatOptions={{ automaticColors: true }}
       groupAggregationMode="none"
       key="role"
       label="Role"
@@ -233,6 +234,7 @@
       cellTooltipMode="overflow"
       format="tags"
       formatOptions={{ map: { automaticColors: true } }}
+      formatOptions={{ automaticColors: true }}
       groupAggregationMode="none"
       key="teams"
       label="Teams"
