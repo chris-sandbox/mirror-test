@@ -150,4 +150,9 @@
       />
     </ToolbarButton>
   </Table>
+  <Module
+    id="uuidModule1"
+    name="UUID module"
+    pageUuid="54a15fce-172e-11ef-88f5-0f9197449a9a"
+  />
 </App>
