@@ -14,7 +14,7 @@
         event="click"
         method="trigger"
         params={{ ordered: [] }}
-        pluginId="createQueryWithLanguage"
+        pluginId="getCopy"
         type="datasource"
         waitMs="0"
         waitType="debounce"
