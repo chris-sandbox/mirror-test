@@ -1,5 +1,7 @@
 <App>
   <GlobalWidgetOutput id="output1" value="{{ textInput1.value }}" />
+  <GlobalWidgetOutput id="output2" value="asdf" />
+  <GlobalWidgetOutput id="output3" value="output threeeee" />
   <Frame
     id="$main"
     enableFullBleed={false}
