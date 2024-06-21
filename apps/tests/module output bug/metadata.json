@@ -3,6 +3,52 @@
   "version": "43.0.9",
   "pageUuid": "115e75d2-2f8c-11ef-9332-7b6b5ab7a3e6",
   "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "thi": {
+          "array": []
+        },
+        "thisI": {
+          "array": []
+        },
+        "thisIs": {
+          "array": []
+        },
+        "thisIsmy": {
+          "array": []
+        },
+        "thisIsmyO": {
+          "array": []
+        },
+        "thisIsmyOu": {
+          "array": []
+        },
+        "thisIsmyOut": {
+          "array": []
+        },
+        "thisIsmyOutp": {
+          "array": []
+        },
+        "thisIsmyOutput": {
+          "array": []
+        },
+        "t": {
+          "array": []
+        },
+        "m": {
+          "array": []
+        },
+        "outp": {
+          "array": []
+        },
+        "output": {
+          "array": []
+        },
+        "output2": {
+          "array": []
+        }
+      }
+    },
     "isGlobalWidget": true,
     "version": "3.52.2",
     "experimentalDataTabEnabled": true
