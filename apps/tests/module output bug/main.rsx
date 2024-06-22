@@ -7,6 +7,7 @@
     description="new output! "
     value="{{ textInput1.value }}"
   />
+  <GlobalWidgetOutput id="output5" value="{{ textInput1.value }}" />
   <Frame
     id="$main"
     enableFullBleed={false}
