@@ -2,6 +2,12 @@
   <GlobalWidgetOutput id="output1" value="{{ textInput1.value }}" />
   <GlobalWidgetOutput id="output2" value="asdf" />
   <GlobalWidgetOutput id="output3" value="output threeeee" />
+  <GlobalWidgetOutput
+    id="output4"
+    description="new output! "
+    value="{{ textInput1.value }}"
+  />
+  <GlobalWidgetOutput id="output5" value="{{ textInput1.value }}" />
   <Frame
     id="$main"
     enableFullBleed={false}
